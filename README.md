@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasi-kumar-repo
 - 👀 I’m interested in Coding, playing games.
-- 🌱 I’m currently learning Python with Flask and developing small scale automation tools
+- 🌱 I’m currently learning Python with Flask and developing small scale automation tools plus testing related projects
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me 619sasikumar@gmail.com
 
